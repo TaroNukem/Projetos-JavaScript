@@ -21,7 +21,7 @@ Uma calculadora feita com HTML, CSS e JavaScript para praticar um pouco de desen
 
 1. Clone o repositório:
 
-   `git clone URL_DO_REPOSITORIO`
+   `git clone https://github.com/TaroNukem/Projetos-JavaScript/tree/main/CalculadoraJS`
 
 
 2. Abra a pasta do projeto.
